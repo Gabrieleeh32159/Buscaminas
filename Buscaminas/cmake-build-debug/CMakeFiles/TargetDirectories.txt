@@ -1,0 +1,3 @@
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/cmake-build-debug/CMakeFiles/Buscaminas.dir
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

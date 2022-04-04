@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/game.cpp
+game.h
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/game.h
+
+C:/Users/Usuario/Desktop/Proyectos/Buscaminas/game.h
+iostream
+-
+ctime
+-
+vector
+-
+
